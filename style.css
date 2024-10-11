@@ -15,4 +15,12 @@ body {
   border-radius: 8px;
   border: 0;
   cursor: pointer;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.btn-t {
+  width: max-content;
+  margin: 0 auto;
 }
